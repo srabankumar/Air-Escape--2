@@ -1,0 +1,57 @@
+#mycanvas
+{
+	background:#000;
+}
+#score
+{
+	position:absolute;
+	margin:480px 0 0 0;
+	color: yellow;
+	font-size:14pt;
+}
+#endgame
+{
+	position: absolute;
+	margin: 250px 0 0 350px;
+	color: #FF4000;
+	font-size: 60px;
+}
+
+#reset
+{
+	position:absolute;
+	margin:450px 0 0 450px;
+	font-size: 20px;
+	background-color: #009050;
+}
+
+#start
+{
+	position: absolute;
+	margin:450px 0 0 450px;
+	font-size: 20px;
+	background-color: #2090AA;
+}
+img
+{
+	    height: 200px;
+	    width: 300px;
+	    display: none;
+	    z-index: 9999;
+	    top: 10%;
+	    left: 40%;	
+	    position: absolute;
+	    margin-left: -10px;
+}
+
+#level
+{
+	position: absolute;
+	margin:230px 0 0 380px;
+}
+
+#easy,#medium,#hard
+{
+	font-size: 15px;
+	background-color:#955263;
+}

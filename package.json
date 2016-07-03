@@ -24,8 +24,6 @@
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
-    "gulp-minify": "0.0.12",
-    "gulp-refresh": "^1.1.0",
-    "gulp-uglyfly": "^1.4.2"
+    "gulp-minify": "0.0.12"
   }
 }
